@@ -2,5 +2,5 @@
 
 ## References
 
-    [URL]: https://www.callicoder.com/spring-boot-file-upload-download-rest-api-example/
-    [man]: http://git-scm.com/docs/gitignore    
+    ['URL']: https://www.callicoder.com/spring-boot-file-upload-download-rest-api-example/
+   
