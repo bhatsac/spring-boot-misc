@@ -1,2 +1,5 @@
-# spring-boot-misc
-These are some of the small modules done in spring boot.
+# This is a `file listing/searching/uploading/downloading` utility developed using Java8 and spring boot.
+
+##References
+[man]: https://www.callicoder.com/spring-boot-file-upload-download-rest-api-example/
+    
