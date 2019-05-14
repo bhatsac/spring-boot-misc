@@ -1,0 +1,2 @@
+# ignoring file-upload related builds #
+file-upload/target
